@@ -1,3 +1,4 @@
+# encoding: utf-8
 module FaradayStack
   class Caching < Faraday::Middleware
     attr_reader :cache
