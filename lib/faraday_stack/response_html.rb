@@ -1,3 +1,4 @@
+# encoding: utf-8
 module FaradayStack
   class ResponseHTML < ResponseMiddleware
     dependency do
