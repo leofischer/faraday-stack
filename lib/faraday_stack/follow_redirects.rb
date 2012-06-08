@@ -1,3 +1,4 @@
+# encoding: utf-8
 module FaradayStack
   class RedirectLimitReached < Faraday::Error::ClientError
     attr_reader :response
