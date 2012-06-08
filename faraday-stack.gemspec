@@ -10,7 +10,8 @@ Gem::Specification.new do |gem|
   gem.summary = "Great Faraday stack for consuming all kinds of APIs"
   # gem.description = "Longer description."
 
-  gem.authors  = ['Mislav Marohnić']
+  #branched by leofischer sans permission
+  gem.authors  = ['Mislav Marohnic']
   gem.email    = 'mislav.marohnic@gmail.com'
   gem.homepage = 'https://github.com/mislav/faraday-stack'
 
