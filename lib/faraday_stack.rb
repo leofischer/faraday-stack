@@ -16,7 +16,7 @@ module FaradayStack
     :FollowRedirects => 'follow_redirects',
     :RackCompatible => 'rack_compatible'
   
-  # THE ÜBER STACK
+  # THE UBER STACK
   def self.default_connection
     @default_connection ||= self.build
   end
