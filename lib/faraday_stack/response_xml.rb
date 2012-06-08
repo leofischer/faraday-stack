@@ -1,3 +1,4 @@
+# encoding: utf-8
 module FaradayStack
   class ResponseXML < ResponseMiddleware
     dependency do
