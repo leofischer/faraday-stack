@@ -1,3 +1,4 @@
+# encoding: utf-8
 module FaradayStack
   class ResponseJSON < ResponseMiddleware
     adapter_name = nil
