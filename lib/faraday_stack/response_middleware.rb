@@ -1,3 +1,4 @@
+# encoding: utf-8
 module FaradayStack
   # A base class for middleware that parses responses
   class ResponseMiddleware < Faraday::Response::Middleware
