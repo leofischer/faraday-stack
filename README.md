@@ -1,4 +1,4 @@
-# Über Stack
+# Uber Stack
 
 **Notice: faraday-stack has been deprecated and its middleware moved to [faraday_middleware](https://github.com/pengwynn/faraday_middleware#readme).**
 
