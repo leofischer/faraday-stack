@@ -1,3 +1,4 @@
+# encoding: utf-8
 module FaradayStack
   # Measures request time only in synchronous request mode.
   # Sample subscriber:
